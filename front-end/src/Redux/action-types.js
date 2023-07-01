@@ -1,0 +1,10 @@
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAILURE = "LOGIN_FAILURE";
+export const SEARCH_CHARACTERS = "SEARCH_CHARACTERS";
+export const GET_CHARACTER_DETAIL = "GET_CHARACTER_DETAIL";
+export const CLEAN_DETAIL = "CLEAN_DETAIL";
+export const CLOSE_CARD = 'CLOSE_CARD'
+export const ADD_FAV = 'ADD_FAV';
+export const DELETE_FAV = 'DELETE_FAV';
+// export const FILTER = 'FILTER'
+// export const ORDER = 'ORDER'

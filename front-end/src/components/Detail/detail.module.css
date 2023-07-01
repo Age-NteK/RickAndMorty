@@ -1,0 +1,48 @@
+.detail_container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.detail_container_img {
+  grid-column: 1;
+}
+
+.detail_img {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.detail {
+  margin-top: 40px;
+}
+
+.detail_container_text{
+  background-image: url('../../img/stars.jpg');
+  grid-column: 2;
+  justify-content: center;
+  text-align: center;
+  color: rgb(190, 141, 255);
+  font-size: 40px;
+}
+
+.detail_text_tittle{
+  backdrop-filter: blur(10px);
+   margin-top: 80px;
+   margin-bottom: 50px;
+   color: rgb(191, 151, 255);
+   letter-spacing: 3px;
+}
+
+.detail_text {
+  display: inline;
+  margin-left: 10px;
+}
+
+.detail_label {
+  display: inline;
+}
+
+.div_aux {
+  margin-top: 120px;
+  backdrop-filter: blur(10px);
+}

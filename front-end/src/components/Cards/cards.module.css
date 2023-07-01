@@ -1,0 +1,9 @@
+.cards {
+  background-image: url('../../img/moon.jpg');
+  background-size: cover;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-rows: auto;
+  justify-content: space-around;
+  height: 100vh;
+}

@@ -1,0 +1,42 @@
+.not_found_container_img {
+  background-image: url('../../img/form.jpg');
+  background-size: cover;
+  display: grid;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.not_found_container {
+  justify-content: center;
+  text-align: center;
+  font-weight: bold;
+  padding: 20px;
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0);
+  font-size: 35px;
+  color: rgb(28, 46, 0);
+  border-radius: 20px;
+}
+
+.not_found_text {
+  margin-top: 10px;
+}
+
+.not_found_btn {
+  margin-top: 30px;
+  height: 100px;
+  width: 250px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgb(28, 46, 0);
+  font-size: 25px;
+  color: greenyellow;
+}
+
+.not_found_btn:hover{
+  background-color: rgb(178, 250, 71);
+  color: rgb(28, 46, 0);
+  box-shadow: 0px 0px 2px 2px rgb(161, 251, 26);
+  font-weight: bold;
+}

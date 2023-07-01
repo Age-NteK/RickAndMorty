@@ -1,0 +1,121 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Bruno Ace SC", "Instrument Serif", sans-serif;
+}
+
+.form_container {
+  background-image: url("../../img/background.jpg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+}
+
+.form_login {
+  backdrop-filter: blur(150px);
+  min-height: 400px;
+  width: 280px;
+  padding: 40px;
+  border-radius: 10px;
+  border: 2px solid rgb(0, 194, 223);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 80px;
+}
+
+.form_login:hover {
+  box-shadow: 0px 0px 8px 8px aqua;
+}
+
+.form_label {
+  padding: 7px;
+  font-size: 30px;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.744);
+  letter-spacing: 9px;
+  margin-top: 20px;
+}
+
+.form_input {
+  height: 30px;
+  width: 250px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  outline: none;
+  font-size: 18px;
+  text-align: center;
+  background-color: rgba(0, 234, 255, 0.239);
+  border-bottom: 2px solid rgba(0, 85, 104, 0.409);
+}
+
+.form_input::placeholder {
+  font-size: 15px;
+  letter-spacing: 7px;
+  height: 18px;
+  color: rgba(0, 0, 0, 0.494);
+  text-align: center;
+}
+
+.form_btn {
+  height: 45px;
+  width: 150px;
+  margin-top: 55px;
+  border-radius: 15px;
+  letter-spacing: 4px;
+  font-size: 25px;
+  background-color: rgb(2, 200, 218);
+  border: 2px solid rgba(0, 137, 168, 0.409);
+}
+
+.form_btn:hover {
+  box-shadow: 0px 0px 3px 3px rgba(0, 255, 255, 0.72);
+  background-color: rgb(0, 255, 255);
+  color: #000000;
+  border: 2px solid rgba(0, 85, 104, 0.409);
+}
+
+/* 
+PARA CUANDO SE COMPLETA SELECCIONANDO CONN AUTOFILL
+.form_input:-webkit-autofill,
+.form_input:-webkit-autofill:hover, 
+.form_input:-webkit-autofill:focus, 
+.form_input:-webkit-autofill:active {
+  transition: background-color 5000s;
+  background-color: rgba(0, 234, 255, 0.239);
+  border-bottom: 2px solid rgba(0, 85, 104, 0.409);
+  -webkit-text-fill-color: #000000;
+} */
+
+/* .form_input-error {
+  background-color: rgba(255, 0, 0, 0.319);
+  border-bottom: 2px solid rgba(246, 0, 0, 0.376);
+}
+
+.form_input-success {
+  background-color: rgba(0, 234, 255, 0.363);
+  border-bottom: 2px solid rgba(0, 85, 104, 0.699);
+} */
+
+/*
+.form_btn:disabled {
+  font-weight: bold;
+  box-shadow: red;
+  border: 1px solid rgb(255, 0, 0);
+  background-color: #bd00004f;
+  color: rgb(255, 0, 0);
+}
+
+.form_p {
+  margin-top: 10px;
+  color: rgb(66, 0, 0);
+  font-size: 15px;
+  letter-spacing: 2px;
+  font-weight: bold;
+} */
