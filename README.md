@@ -1,5 +1,10 @@
 # RickAndMorty
 
+## Contacto
+
+### Si estás interesado en colaborar, tienes alguna pregunta o simplemente quieres conectarte, le extiendo una cordial invitación para visitar mi perfil en el siguiente enlace: linkedin.com/in/macarena-castillo-366173288
+¡Gracias por visitar mi repositorio y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!
+
 Uno de los proyectos que abordé fue la creación de la Aplicación Rick and Morty. Tuve la oportunidad de desarrollar una aplicación dinámica que ofrece a los usuarios la emocionante posibilidad de explorar y filtrar a los personajes de la popular serie "Rick and Morty". Me enorgullece compartir los detalles de mi contribución a esta aplicación.
 
 ## Sección de Inicio de Sesión y Registro:
