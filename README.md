@@ -1,10 +1,5 @@
 # RickAndMorty
 
-## Contacto
-
-### Si estás interesado en colaborar, tienes alguna pregunta o simplemente quieres conectarte, le extiendo una cordial invitación para visitar mi perfil en el siguiente enlace: linkedin.com/in/macarena-castillo-366173288
-¡Gracias por visitar mi repositorio y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!
-
 Uno de los proyectos que abordé fue la creación de la Aplicación Rick and Morty. Tuve la oportunidad de desarrollar una aplicación dinámica que ofrece a los usuarios la emocionante posibilidad de explorar y filtrar a los personajes de la popular serie "Rick and Morty". Me enorgullece compartir los detalles de mi contribución a esta aplicación.
 
 ## Sección de Inicio de Sesión y Registro:
@@ -23,3 +18,8 @@ Con el objetivo de mantener un control coherente y ordenado de la información e
 En el backend, mi enfoque se centró en diseñar y configurar múltiples rutas. Estas rutas fueron cuidadosamente planificadas para recuperar datos e interacciones específicas de los usuarios. La estructura sólida en el backend contribuyó a una experiencia de usuario fluida y atractiva, permitiendo una navegación intuitiva y una interacción sin problemas.
 
 Este proyecto significó un emocionante desafío para mí, y estoy encantada con los resultados obtenidos. El proceso de desarrollo me permitió aplicar y fortalecer mis habilidades en el diseño de interfaces, programación y gestión de datos. Estoy orgullosa de haber contribuido a la creación de una aplicación que brinda entretenimiento y funcionalidad a los usuarios, al mismo tiempo que garantiza una experiencia de usuario fluida y enriquecedora.
+
+## Contacto
+
+### Si estás interesado en colaborar, tienes alguna pregunta o simplemente quieres conectarte, le extiendo una cordial invitación para visitar mi perfil en el siguiente enlace: linkedin.com/in/macarena-castillo-366173288
+¡Gracias por visitar mi repositorio y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!
