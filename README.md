@@ -22,15 +22,15 @@ En esta sección de la aplicación, los usuarios tienen la emocionante oportunid
 
 ![image](https://github.com/Age-NteK/RickAndMorty/assets/107895191/039fb9b8-dd85-4bb4-b547-649d49151182)
 
-## Not Found Page
-La página de "Not Found" es una característica de la aplicación que brinda una experiencia amigable cuando los usuarios intentan acceder a contenido que no está disponible. En lugar de encontrarse con un mensaje de error confuso, los usuarios serán redirigidos a esta página cuidadosamente diseñada. Aquí, encontrarán instrucciones claras para navegar de nuevo hacia el contenido deseado, asegurando una experiencia de usuario fluida y positiva.
-
-![image](https://github.com/Age-NteK/RickAndMorty/assets/107895191/25aac293-5421-43d1-b364-dd544cfdbbdd)
-
 ## About
 Aquí, presentamos la historia detrás de la creación de la aplicación, su propósito y los valores que la impulsan. También encontrarás información sobre el desarrollo, destacando su pasión y compromiso. Explora los detalles que hacen que nuestra aplicación sea única de una manera memorable y significativa.
 
 ![image](https://github.com/Age-NteK/RickAndMorty/assets/107895191/50585cb2-3444-457b-9865-c46008050ece)
+
+## Not Found Page
+La página de "Not Found" es una característica de la aplicación que brinda una experiencia amigable cuando los usuarios intentan acceder a contenido que no está disponible. En lugar de encontrarse con un mensaje de error confuso, los usuarios serán redirigidos a esta página cuidadosamente diseñada. Aquí, encontrarán instrucciones claras para navegar de nuevo hacia el contenido deseado, asegurando una experiencia de usuario fluida y positiva.
+
+![image](https://github.com/Age-NteK/RickAndMorty/assets/107895191/25aac293-5421-43d1-b364-dd544cfdbbdd)
 
 ## Sección de Favoritos
 Para enriquecer la experiencia, incorporé una sección de "Favoritos". Los usuarios pueden marcar sus personajes favoritos, lo que les permite guardar y acceder fácilmente a la información de estos personajes en un solo lugar. Esta función personalizada agrega un toque especial y hace que la aplicación sea más personal y adaptada a las preferencias de cada usuario.
