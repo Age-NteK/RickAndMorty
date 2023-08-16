@@ -1,4 +1,4 @@
-# RickAndMorty
+# Rick & Morty
 
 Uno de los proyectos que abordé fue la creación de la Aplicación Rick and Morty. Tuve la oportunidad de desarrollar una aplicación dinámica que ofrece a los usuarios la emocionante posibilidad de explorar y filtrar a los personajes de la popular serie "Rick and Morty". Me enorgullece compartir los detalles de mi contribución a esta aplicación.
 
