@@ -45,7 +45,9 @@ Este proyecto significó un emocionante desafío para mí, y estoy encantada con
 
 ## Contacto
 
-- Si estás interesado en colaborar, tienes alguna pregunta o simplemente quieres conectarte, le extiendo una cordial invitación para visitar mi perfil de linkedin en el siguiente enlace: linkedin.com/in/macarena-castillo-366173288
-- O bien, puede comunicarse conmigo vía email en: macarenacastilloruiz@gmail.com
+- Si estás interesado en colaborar, tienes alguna pregunta o simplemente quieres conectarte, le extiendo una cordial invitación para visitar mi perfil de linkedin
+- linkedin.com/in/macarena-castillo-366173288
+- O bien, puede comunicarse conmigo vía email
+- macarenacastilloruiz@gmail.com
 - 
 # ¡Gracias por visitar mi repositorio y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!
