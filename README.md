@@ -2,7 +2,7 @@
 
 Uno de los proyectos que abordé fue la creación de la Aplicación Rick and Morty. Tuve la oportunidad de desarrollar una aplicación dinámica que ofrece a los usuarios la emocionante posibilidad de explorar y filtrar a los personajes de la popular serie "Rick and Morty". Me enorgullece compartir los detalles de mi contribución a esta aplicación.
 
-## Sección de Inicio de Sesión y Registro
+## Inicio de Sesión y Registro
 Personalmente, añadí diversas funcionalidades para mejorar la experiencia de uso. Implementé un sólido sistema de autenticación de usuarios, que incluyó procesos de inicio de sesión y registro. Esto permitió a los usuarios acceder a características exclusivas y garantizó la privacidad y seguridad de sus datos personales.
 
 ![image](https://github.com/Age-NteK/RickAndMorty/assets/107895191/f90f8410-69cd-448b-b7fc-afef9b1a42cb)
